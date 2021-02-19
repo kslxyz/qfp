@@ -1,0 +1,185 @@
+[
+{
+    "name" : "Una Chung",
+    "role" : "Facilitator",
+    "affiliation" : "Sarah Lawrence College",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+},
+{
+    "name" : "Avishek Ganguly",
+    "role" : "Facilitator",
+    "affiliation" : "RISD",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+},
+{
+    "name" : "Ju Hui Judy Han",
+    "role" : "Panelist",
+    "affiliation" : "UCLA",
+    "bio" : "Ju Hui Judy Han is a queer Korean/American cultural geographer and activist based in Los Angeles. Her research and publications concern conservative religious formations, political activism, and protest cultures. She teaches courses on gender and sexuality, power and (im)mobilities, and comics in the Gender Studies department at UCLA, and is part of the Korean Studies Distinguished Speakers Bureau for the Association for Asian Studies.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "siren eun young jung",
+    "role" : "Artist, Speaker",
+    "affiliation" : "South Korea",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Jiyeon Kang",
+    "role" : "Discussant",
+    "affiliation" : "University of Iowa",
+    "bio" : "Jiyeon Kang is an Associate Professor of Communication Studies and Korean Studies at the University of Iowa. Her research focuses on youth culture, social movements, and digital technologies in both South Korea and the U.S., with a specific interest in communicative dynamics and vernacular social and ethical norms of coexistence emerging in internet and campus communities.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Younghwa Kang / 강영화",
+    "role" : "Artist, Roundtable",
+    "affiliation" : "FDSC",
+    "bio" : "Younghwa Kang designs Web SaaS(Software as a Service) products at Toss, a mobile financial service provider. She has worked for Seoul-based startups for several years. She is a co-founder of TechFemi, a community of Korean feminists who design digital products. In 2018, she created Meetgo, an online platform that allows users to find people with similar interests and join in-person and virtual events. Through this platform, she has built the foundation for the community guide and code of conduct for offline meetups in the tech industry in Seoul.</p><p>N개의 스타트업을 거쳐 2021년 현재 토스에서 인터널 프로덕트를 만드는 프로덕트 디자이너로 일하고 있다. 사이드 프로젝트로 테크업계 페미니스트 모임인 테크페미를 운영했고, 누구에게나 안전한 오프라인 모임을 연결하는 온라인 서비스 밋고를 만들었다. 요새 관심 가지는 주제는 ‘함께 행복하기 일하기’.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Eunjung Kim",
+    "role" : "Panelist",
+    "affiliation" : "Syracuse University",
+    "bio" : "Eunjung Kim is an associate professor of women’s and gender studies and disability studies at Syracuse University. She is the author of Curative Violence: Rehabilitating Disability, Gender, and Sexuality in Modern Korea (Duke University Press 2017) and has written on asexuality studies, transnational feminist disability studies, human/nonhuman boundaries, and minority politics in South Korea.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Jongwoo Kim",
+    "role" : "Panelist",
+    "affiliation" : "Carnegie Mellon University",
+    "bio" : "Jongwoo Jeremy Kim is an Associate Professor of Critical Studies in Art History and Theory at Carnegie Mellon University's School of Art. His publications include Painted Men in Britain, 1868-1918, Queer Difficulty in Art and Poetry, and the article “Filming the Queerness of Comfort Women: Byun Young–Joo’s The Murmuring, 1995.” Dr. Kim was born in Busan, South Korea, and immigrated to the United States in the 1990s.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Kyungmook Kim",
+    "role" : "Artist, Speaker",
+    "affiliation" : "South Korea",
+    "bio" : "KyungMook Kim is a filmmaker based in Seoul. Ranging from video art, documentary and narrative film to expended form of cinema, his works explore the precarity of the marginalized such as homosexuals, transsexuals, sex workers, and North Korean defectors.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Minkyoung Kim",
+    "role" : "Moderator",
+    "affiliation" : "RISD",
+    "bio" : "Minkyoung Kim is a designer, programmer, and educator who develops visual systems with a focus on repetition and evolution. She investigates tools and systems to generate iterations, exploring ways of presenting a series of iterations to orient new readings of their shifting contexts. She had also worked as a co-founder of <a href='http://kimchangpractice.com/index_e.html' target='_blank'>KimChangPractice!!</a>, a Seoul-based art collective team that focuses on the temporality of urban spaces and explores the networks behind them. Currently, she is an assistant professor at the Rhode Island School of Design.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "SooYoung Kim",
+    "role" : "Panelist",
+    "affiliation" : "Emory University",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Yeong Ran Kim",
+    "role" : "Organizer",
+    "affiliation" : "Sarah Lawrence College",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "J. Joon Lee",
+    "role" : "Organizer",
+    "affiliation" : "RISD",
+    "bio" : "Joon is an associate professor of Theory and History of Art and Design at RISD. Her research interests span the crossings of art and politics, transnational militarism and decoloniality, and gender and sexuality. Her current book project examines the ways that the medium of photography and its subjects have been politicized through transnational militarism in South Korea and the Korean diaspora. Joon’s recent publications include “Queering Imagination, Queering Futurity: A Methodological Approach to Military Photography” in Photography and Imagination (Routledge, 2020) and “From Traveling Images to Traveling Bodies: Korean War Orphans in Hollywood and the Rhetoric of Interracial Adoption,” PhotoResearcher (Fall 2018)",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Kang Seung Lee",
+    "role" : "Artist, Speaker",
+    "affiliation" : "Los Angeles",
+    "bio" : "Kang Seung Lee is a multidisciplinary artist who was born in South Korea and now lives and works in Los Angeles. His work frequently engages the legacy of transnational queer histories, particularly as they intersect with art history. Forthcoming solo exhibitions will be held at Commonwealth and Council, Los Angeles and Gallery Hyundai, Seoul (2021). Lee will participate in the 13th Gwangju Biennale and be included in group exhibitions at MASS MoCA, North Adams, MA, and Leslie-Lohman Museum, New York, NY, in 2021.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "So-Rim Lee",
+    "role" : "Panelist",
+    "affiliation" : "Columbia University",
+    "bio" : "So-Rim investigates the intersections of embodiment, everyday performance, and visual culture in South Korea and the Korean diaspora. Her doctoral dissertation, Performing the Self: Cosmetic Surgery and the Political Economy of Beauty in Korea, explores how cosmetic surgery became a mode of performing the self and subjectivity in South Korea post-1997 Asian Financial Crisis. Using this work as a springboard, So-Rim is currently drafting her first book project that surveys the public discourse of \"plastic surgery\" (cosmetic and reconstructive surgeries) in South Korea's past 100 years.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "SUNGJAE LEE",
+    "role" : "Artist, Speaker",
+    "affiliation" : "South Korea/Chicago",
+    "bio" : "SUNGJAE LEE is a Seoul-born, Chicago-based artist. He makes performance, installation, text, and video focusing on queer Asians and their desires that have been regarded as effeminate, desexualized, and thus invisible in the West. He has presented his works globally in Korea, Sweden, Canada, New Zealand, and the US. He received his B.F.A. in Sculpture from Seoul National University and M.F.A. in Performance Art from The School of the Art Institute of Chicago.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Ee-rang Park / 박이랑",
+    "role" : "Artist, Roundtable",
+    "affiliation" : "FDSC",
+    "bio" : "Ee-rang Park is a graphic designer and an art director. After studying graphic design in Seoul, she established her creative studio in 2009, Studio Hertz, where she worked on a diverse range of projects like graphic identities, publications, etc., for companies, cultural institutions, and individuals. Between 2013-2017, she directed the design of a five-volume encyclopedia for her client Propaganda. She is actively engaged in lectures and self-discipline explorations, too. She is currently in charge of Brand Strategy & Design as a Creative Director at Hyundai Department Store Group.</p><p>그래픽 디자이너이자 아트 디렉터이다. 시각디자인을 공부하고 2009년 독립 디자인스튜디오 스튜디오헤르쯔를 설립하여 기업, 문화 기관 혹은 개인의 그래픽 아이덴티티, 홍보물, 출판물 등을 디자인했다. 동시에 독립출판사 스윙퍼블리셔스를 설립하여 책을 기획하고 출판하기도 하였으며 프로파간다가 2017년 출간한 백과전서도판집 전 5권을 5년에 걸쳐 작업한 바 있다. 현재 현대백화점 브랜드 전략의 크리에이티브 디렉터로 기업 주요 아이덴티티를 기획 및 총괄하여 개발하였으며 주요 브랜드 캠페인과 전략을 담당하여 일하고 있다.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Samuel Perry",
+    "role" : "Discussant",
+    "affiliation" : "Brown University",
+    "bio" : "Samuel Perry is associate professor of East Asian Studies and Comparative Literature at Brown University, where he teaches about Japanese and Korean literature and culture, gender and sexuality, and translation. His publications include <i>Recasting Red Culture in Proletarian Japan</i> (UHawaii, 2012), the translations <i>From Wonso Pond</i> (The Feminist Press, 2009) by Kang Kyongae, and <i>Crimson and Other Works</i> (UHawaii, 2015) by Sata Ineko; he is currently at work on a monograph about Japanese culture during the Korean War. A two-volume collection of translated queer Korean literature, including works by Yi Kwangsu, Ch'oe Chŏnghŭi, O Chŏnghŭi, Kim Bi, Yi Sŏyŏng, Park Sang Yong and others, is forthcoming.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Hyperlink Press",
+    "role" : "Artist, Roundtable",
+    "affiliation" : "New York",
+    "bio" : "Inspired by South Korean online LGBTQ communities in the 2000s, Hyperlink Press is an online publication and curatorial collective to create intersectional platforms to showcase work by artists navigating the in-between spaces. Hyperlink Press’ mission is to empower the underrepresented history, experience, and identity in the tech field, and art gallery system. Founded by Taehee Whang, Jeong Yoon Lee, and Minsoo Thigpen in 2018, Hyperlink Press would like to share the time of utopic excitement, that we felt back in our shared childhood of 2000s, for an equal world, breaking free from the traditional forms of community building.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "Lisi Raskin",
+    "role" : "Facilitator",
+    "affiliation" : "RISD",
+    "bio" : "Lisi Raskin’s creative and curricular practices have become laboratories for building bridges between politicized subject matter, queer ontologies, abstraction, collaborative making, non-hierarchical interventions into normative systems of power, and engaged pedagogy. These laboratories support the making of paintings, drawings, objects, videos, animations, and large, constructed environments that house pedagogical, performative, and socially engaged programming. Raskin is a proud member of the rock band Peebls. With this group, she has loved, laughed, learned, cooked, and ate while co-authoring a demo album of intersectional propaganda for children of all ages. Raskin is currently working on a book about engaged and inclusive pedagogy. She is an Associate Professor and Department Head of Sculpture at Rhode Island School of Design.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "In-ah Shin / 신인아",
+    "role" : "Artist, Roundtable",
+    "affiliation" : "FDSC",
+    "bio" : "In-ah Shin is a graphic designer based in Seoul, South Korea. Her primary interest lies in understanding authenticity in contemporary Korean culture and translating it into design practice. She runs 'Scenery of Today,' an independent design studio and publisher, and collaborates with activists and institutions of all sizes that generate social and cultural impact. She co-founded the 'Feminist Designer Social Club', a community that explores possibilities of the feminist design industry.</p><p>신인아는 서울에서 그래픽 디자인 스튜디오 ‘오늘의풍경’과 페미니스트의 시선으로 새로운 질서를 만들어가는 커뮤니티 ‘페미니스트 디자이너 소셜클럽’을 운영한다. 시민으로서의 디자이너의 역할을 고민하고, 동시대 한국의 ‘고유’ 문화를 반영하는 시각 언어의 가능성을 탐구한다. 카카오임팩트, 청년허브, 여성예술인연대 등 주로 변화를 위해 움직이는 개인/단체/기업과 협업하며 BIYN(기본소득청’소’년네트워크) 회원이고 청계천을지로보전연대의 열렬한 지지자이기도 하다.",
+    "headshot" : "assets/siren.jpg"
+},
+{
+    "name" : "Sun-ah Shin / 신선아",
+    "role" : "Artist, Roundtable",
+    "affiliation" : "FDSC",
+    "bio" : "Sun-ah Shin is a feminist graphic designer based in Daejeon, South Korea. She is a member of the Daejeon feminist artist collective Boshu and runs 'Behonhoogam(비혼후갬)', an anti-marriage(비혼) women's community. As a leader of the Daejeon branch of FDSC(Feminist Designer Social Club), she creates a network of designers outside of Seoul. Her works reflect her critical observation from her non-white, non-western, non-Seoul, non-heterosexual perspective, highlighting and celebrating the otherness in South Korea.</p><p>대전을 기반으로 활동하는 페미니스트 그래픽 디자이너. 2015년부터 대전 페미니스트 문화기획자 그룹 BOSHU에서 일하며 비혼 여성 커뮤니티 '비혼후갬'을 운영한다. FDSC에서는 대전지부를 만들고 운영하고 있다. 유럽이라는 중심, 서울이라는 중심, 이성애라는 중심에서 벗어난 곳에 살며 주변의 관점으로 중심을 비판적으로 관찰한 결과를 작업에 담으려 한다. 이곳에서 나만이 '하이라이트' 할 수 있는 일이 있다고 믿으며, 대전이라는 ‘주변'에서 디자이너로 살고 있다.",
+    "headshot" : "assets/siren.jpg"
+},
+
+{
+    "name" : "John Won",
+    "role" : "Panelist",
+    "affiliation" : "KQTx National Network",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
+    "headshot" : "assets/siren.jpg"
+}
+
+
+
+]
