@@ -1,9 +1,10 @@
 var h, scrollInt;
-var header = 100;
+var header = 110;
 var scrolling = false;
 
 $(document).ready(function() {
-    h = $(window).height();
+    h = $(".main-container").offset().top;
+
 
     $(window).scroll(function() {
         scrolling = true;
@@ -16,7 +17,7 @@ $(document).ready(function() {
 
 $(window).resize(function() {
     clearInterval(scrollInt);
-    h = $(window).height();
+    h = $(".main-container").offset().top;
     scrollInt = setInterval(scrollThrottle, 100);
 });
 
@@ -25,11 +26,11 @@ function scrollThrottle() {
         scrolling = false;
         if($(window).scrollTop() > h-header) {
             if(!$(".bg").hasClass("past")) {
-                $(".bg").addClass("past");
+                $(".bg, .nav-button").addClass("past");
             }
         } else {
             if($(window).scrollTop() < h-header && $(".bg").hasClass("past")) {
-                $(".bg").removeClass("past");
+                $(".bg, .nav-button").removeClass("past");
             }
         }
     }
