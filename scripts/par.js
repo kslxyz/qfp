@@ -7,7 +7,7 @@ $.getJSON('../data/participants.json', function(data) {
         <div class="par-content">
         <div class="headshot">
             <div>
-                <img src="../${p.headshot}"/>
+                <img src="../assets/participants/${p.headshot}"/>
             </div>
         </div>
         <div class="name">
@@ -29,12 +29,14 @@ $(document).ready(function() {
     $(document).on('mouseenter', '.name', function() {
         let thisP = $(this).closest(".participant");
         let thisBio = $(this).siblings(".bio").position().top;
-        $(thisP).addClass("hover");
-        $(thisP).animate({
-            scrollTop: thisBio
-        }, 500);
-
-
+        if(!$(thisP).hasClass('hover')) {
+            $(thisP).addClass("hover");
+            $(thisP).animate({
+                scrollTop: thisBio
+            }, 500);
+        } else {
+            return;
+        }
     });
 
     $(document).on('mouseleave', '.participant', function() {

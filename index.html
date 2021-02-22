@@ -7,7 +7,7 @@
     <!-- <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico"/> -->
     <title>QFP</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;1,200&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
     <script
       src="https://code.jquery.com/jquery-3.5.1.min.js"
@@ -20,7 +20,8 @@
   </head>
   <body>
     <header class="index">
-        <div class="logo"><a href="index.html"><h1 class="logo">QFP</h1></a></div>
+        <div class="bg"></div>
+        <div class="logo"><a href="index.html"><img src='assets/logo/QFP_Logo_White_v1.svg'/></a></div>
         <nav>
             <a href="views/about.html"><button type="button">About</button></a>
             <a href="views/events.html"><button type="button">Events</button></a>
@@ -28,12 +29,17 @@
             <a href="views/participants.html"><button type="button">Participants</button></a>
         </nav>
     </header>
-    <section id="landing"></section>
+
+    <section id="landing">
+        <div class="conference">
+            <p>Queer / Feminist / Praxis</p>
+        </div>
+    </section>
     <div class="main-container">
         <div class="landing-container">
             <section class="intro">
                 <div>
-                    <h1>Queer | Feminist | Praxis</h1>
+                    <h1>Queer / Feminist / Praxis</h1>
                     <p>Intersections of Performance, Visual Arts, and Activism in Korea and the Korean Diaspora</p>
                 </div>
                 <div>
@@ -42,20 +48,21 @@
                 </div>
                 <div>
                     <h3>Queer/Feminist/Praxis is an international conference that brings together scholars, artists, designers, writers, and filmmakers to explore visual arts and activism revolving around the LGBTQI+ and feminist experience in South Korea and abroad.</h3>
+                    <h3>The three-weeklong conference will feature scholarly panels of speakers, performance and film screenings, virtual exhibitions, artist’s talks, and roundtable discussions. The conference events share a special focus on the discourse and praxis of queer feminism in contemporary cultural productions of Korea and the Korean diaspora.</h3>
                 </div>
             </section>
             <section id="content">
-                <div>
+                <div id="content1">
                     <a href="views/events.html"> 
                         <div class="button"><p>Events</p></div>
                     </a>
                 </div>
-                <div>
+                <div id="content2">
                     <a href="views/es.html"> 
                         <div class="button"><p>Exhibitions &amp; Screenings</p></div>
                     </a>
                 </div>
-                <div>
+                <div id="content3">
                     <a href="views/participants.html"> 
                         <div class="button"><p>Participants</p></div>
                     </a>
@@ -64,7 +71,11 @@
         </div>
     </div>
     <footer>
-        <div><h3>QFP</h3></div>
+        <div class="bg-logo"></div>
+        <div class="footer-content">
+        <div class="footer-logo">
+            <img src="assets/logo/QFP_Logo_Black_v1.svg"/>
+        </div>
         <div class="info">
             <p>Queer/Feminist/Praxis</p>
             <p>April 8–23, 2021</p>
@@ -74,28 +85,31 @@
             <p>qfp@risd.edu</p>
             <div class="social">
                 <div class="icon">
-                    <img src="assets/facebook.svg"/>
+                    <img src="assets/social/facebook.svg"/>
                 </div>
                 <div class="icon">
-                    <img src="assets/instagram.svg"/>
+                    <img src="assets/social/instagram.svg"/>
                 </div>
                 <div class="icon">
-                    <img src="assets/twitter.svg"/>
+                    <img src="assets/social/twitter.svg"/>
                 </div>
             </div>
         </div>
         <div class="credits">
             <p>Design by MLM &copy;2021</p>
         </div>
-        <div class="logos">
-            <!-- <div><h3>QFP</h3></div> -->
-            <div class="sponsors">
-                <div>Sponsor</div>
-                <div>Sponsor</div>
-                <div>Sponsor</div>
-                <div>Sponsor</div>
-            </div>
+    </div>
+    <div class="sponsors">
+        <div class="sponsor-list">
+            <p>Queer/Feminist/Praxis is sponsored by The Mr. and Mrs. Cho Fund, the Turner Theatrical and Performance Design Fund, RISD Liberal Arts Division, the Northeast Asia Council of the Association for Asian Studies, the Korea Foundation, and RISD Center for Social Equity &amp; Inclusion (SEI).</p>
         </div>
+        <div class="sponsor-logos">
+            <div class="logo-container h"><img class="blend" src="assets/sponsors/aas.png"/></div>
+            <div class="logo-container h"><img class="blend" src="assets/sponsors/kf.jpg"/></div>
+            <div class="logo-container"><img src="assets/sponsors/sei.svg"/></div>
+            <div class="logo-container"><img src="assets/sponsors/RISD_Seal.svg"/></div>
+        </div>
+    </div>
     </footer>
   </body>
 </html>
