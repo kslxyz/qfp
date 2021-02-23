@@ -105,6 +105,7 @@ $(document).ready(function() {
         $(".event-info").removeClass('show');
         $(`#${thisInfo}-info`).addClass('show');
         $(".sub-event").show();
+        $(".sub-event").scrollTop(0);
     });
 
     $(".close").click(function() {
