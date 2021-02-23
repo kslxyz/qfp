@@ -62,7 +62,8 @@ header {
 }
 
 .bg {
-    background-image: url(../assets/images/nav-21.png);
+    /* background-image: url(../assets/images/nav-21.png); */
+    background-image: url(https://kslxyz.github.io/qfp/assets/images/nav-21.png);
     background-size: 100% 120px;
     background-repeat: no-repeat;
     background-position: top center;
