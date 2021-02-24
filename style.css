@@ -26,7 +26,7 @@ body {
     height: 100%;
     line-height: 1.2;
     font-size: 2vw;
-
+    overflow-x: hidden;
     background: #e5feff;
 }
 
@@ -103,7 +103,7 @@ header {
 
 nav {
     position: relative;
-    z-index: 11;
+    z-index: 12;
     height: 100%;
 }
 
@@ -322,7 +322,7 @@ h3 {
 footer {
     background-image: linear-gradient(#e5feff, white);
     position: relative;
-    padding: 3rem 1.5rem 2rem 1.5rem;
+    padding: 2rem 1.5rem 3rem 1.5rem;
     line-height: 1.3;
     display: flex;
     justify-content: space-between;
@@ -345,11 +345,17 @@ footer {
 
 .footer-content {
     position: relative;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .contact, .info, .footer-logo {
     margin-bottom: 2rem;
+}
+
+.footer-logo {
+    padding-top: 0.3em;
 }
 
 .footer-logo img {
@@ -379,6 +385,10 @@ footer p {
     padding-right: 3%;
 }
 
+.sponsor-list {
+    padding-bottom: 2rem;
+}
+
 .sponsor-list p {
     font-size: unset;
     line-height: 1.4;
@@ -388,33 +398,23 @@ footer p {
     display: flex;
     height: 20%;
     max-height: 50px;
+    width: 100%;
     position: relative;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .logo-container {
-    flex: 1;
+    width: 25%;
     height: 100%;
     display: flex;
     justify-content: flex-end;
 }
 
-.logo-container:first-of-type {
-    flex: none;
-    width: auto;
-}
-
-.logo-container.h {
-    padding: 0.5rem 0;
-}
-
-.logo-container.h:first-of-type {
-    padding-right: 5%;
-}
-
 .sponsor-logos img {
-    height: 100%;
+    max-height: 100%;
+    width: auto;
+    max-width: 25%;
 }
 
 .blend {
@@ -688,8 +688,7 @@ h4 {
     left: 100%;
     cursor: pointer;
     display: inline-block;
-    padding: 0;
-    padding-right: 1.5rem;
+    padding: 0 1.5rem;
 }
 
 .placeholder {
@@ -703,7 +702,274 @@ h4 {
     color: #fff;
 }
 
+.mobi {
+    display: none;
+}
 
+@media screen and (max-device-width:768px), screen and (max-width:768px) {
+
+    .placeholder {
+        background: #2e1b8e;
+    }
+
+    .mobi {
+        display: block;
+    }
+
+    /* .main-container {
+        margin-top: 50vh;
+    } */
+
+    .bg-image {
+        height: 60%;
+    }
+    
+    #about-bg {
+        background-position: left center;
+    }
+
+    #participant-bg {
+        background-position: top center;
+    }
+
+    nav {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #000;
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-button {
+        padding: 2.5rem;
+        float: none;
+        border: none;
+        border-bottom: 1px solid #fff;
+        text-align: center;
+    }
+
+    .nav-button.nav-close {
+        color: gray;
+        border: none;
+        text-transform: none;
+    }
+
+    .nav-button.nav-close:hover {
+        color: gray;
+        background: #000;
+    }
+
+    .hamburger {
+        font-size: 5rem;
+        position: absolute;
+        top: -0.8rem;
+        right: 0.4rem;
+        z-index: 11;
+    }
+
+    h1 {
+        font-size: 4em;
+
+    }
+
+    .subhead {
+        flex-wrap: wrap;
+    }
+
+    .subhead > div {
+        flex: none;
+        width: 100%;
+        border-right: none;
+
+    }
+
+    .subhead > div:first-of-type {
+        border-bottom: 1px solid #000;
+    }
+
+    .subhead p {
+        font-size: 3.5vw;
+    }
+
+    h3 {
+        font-size: 2em;
+        line-height: 1.4;
+    }
+
+    #content > div {
+        width: 50%;
+        border: none;
+        border-top: 1px solid #000;
+        border-right: 1px solid #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #content > div:first-of-type {
+        width: 100%;
+        border-right: none;
+    }
+
+    #content > div:first-of-type::after {
+        padding-bottom: 50%;
+    }
+
+    #content a {
+        width: 75%;
+    }
+
+    #content1 a {
+        width: 40%;
+    }
+
+    .button {
+        position: unset;
+        padding: 1.5rem 1rem;
+        border: 1px solid #000;
+        text-align: center;
+        background: #e5feff;
+    }
+
+    .button p {
+        font-size: 2em;
+    }
+
+    footer {
+        padding: 1.5rem 1rem 2rem 1rem;
+        flex-wrap: wrap;
+    }
+
+    .sponsors {
+        width: 100%;
+        order: 1;
+        display: block;
+    }
+
+    .sponsor-logos {
+        max-height: 60px;
+    }
+
+    .sponsor-list p {
+        font-size: 2em;
+    }
+
+    footer p {
+        font-size: 1.2rem;
+    }
+
+    .footer-content {
+        display: block;
+    }
+
+    .credits {
+        padding-top: 0;
+    }
+
+    .footer-content {
+        order: 2;
+    }
+
+    .bg-logo {
+        display: none;
+    }
+
+    .footer-logo {
+        display: none;
+    }
+
+    .social {
+        padding-top: 1rem;
+    }
+
+    .intro > div:nth-of-type(3) {
+        padding: 1.2em 1.5em;
+    }
+
+    .event {
+        border-right: none;
+        width: 100%;
+        min-height: 300px;
+        border-bottom: 1px solid #000;
+    }
+    
+    .event h3 {
+        font-size: 3.5em;
+        line-height: 1.2;
+    }
+    
+    .event p {
+        font-size: 2.5em;
+        line-height: 1.3;
+    }
+
+    
+
+    .sub-event {
+        width: 90%;
+        left: 5%;
+    }
+    
+    .event-info {
+        padding: 0 1.5rem 0 1.5rem;
+    }
+  
+    .sub-event h3 {
+      font-size: 3.5em;
+    }
+
+  
+    .sub-event p {
+        font-size: 1.4rem;
+    }
+  
+    .sub-event .e-buttons > * {
+        width: 100%;
+    }
+  
+    .sub-event .e-buttons {
+        margin-top: 0;
+    }
+  
+    .close {
+        padding: 0 1.5rem;
+    }
+
+    .sub-event .event-button p {
+        text-align: center;
+    }
+
+
+    .participant {
+        /* width: 25%; */
+        overflow: auto;
+        border: none;
+        width: 100%;
+    }
+    
+    .headshot {
+        display: none;
+    }
+    
+    .par-content {
+        display: block;
+        min-height: initial;
+    }
+    
+    .bio {
+        position: initial;
+        min-height: initial;
+        width: 100%;
+        display: none;
+    }
+
+}
+
+/* @media screen and (max-device-width:380px), screen and (max-width:380px) {
+
+} */
 
 
 

@@ -26,6 +26,17 @@ $.getJSON('../data/participants.json', function(data) {
 });
 
 $(document).ready(function() {
+    if(mq.matches) {
+        $(document).on('click', '.participant', function() {
+            console.log("clicked");
+            $(this).find('.bio').slideToggle();
+        });
+    } else {
+        deskFunc();
+    }
+});
+
+function deskFunc() {
     $(document).on('mouseenter', '.name', function() {
         let thisP = $(this).closest(".participant");
         let thisBio = $(this).siblings(".bio").position().top;
@@ -45,4 +56,8 @@ $(document).ready(function() {
             scrollTop: 0
         }, 400);
     });
-});
+}
+
+function mobiFunc() {
+
+}
