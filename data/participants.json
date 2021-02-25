@@ -10,8 +10,8 @@
     "name" : "Ryan Diaz",
     "role" : "Designer",
     "affiliation" : "RISD, MLM",
-    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum massa vitae ligula vestibulum placerat. Nullam aliquet ac ex vel commodo. Praesent ut convallis ante. Nulla sollicitudin, erat at auctor gravida, dolor nisi porta nunc, nec fermentum odio tortor nec eros. Aliquam interdum quam at ante pulvinar, in varius libero accumsan. Donec in pellentesque lacus. Suspendisse in metus mi. Sed odio mauris, feugiat nec nulla nec, lacinia rhoncus neque. Nunc ut hendrerit mi. Aenean maximus dictum laoreet. Nulla turpis risus, maximus sit amet aliquam in, venenatis nec elit. Vivamus sit amet mollis tellus.",
-    "headshot" : "1.png"
+    "bio" : "Ryan Diaz is a queer Filipino designer, writer, and Celine Dion fan. He is an MFA candidate in graphic design at the Rhode Island School of Design exploring possibilities in performance, emotional material, and pedagogies of vulgarity, schmaltz, and joy. Formerly, he was a Writers Corps Ambassador for On the Boards and a participant in the MOMUS Emerging Critics Residency. He works in community organizing and the arts, publication design, queer artist and dance collectives, art direction, and survivor-focused self-defense training.",
+    "headshot" : "ryan-diaz.jpg"
 },
 
 {
@@ -42,7 +42,7 @@
     "role" : "Discussant",
     "affiliation" : "University of Iowa",
     "bio" : "Jiyeon Kang is an Associate Professor of Communication Studies and Korean Studies at the University of Iowa. Her research focuses on youth culture, social movements, and digital technologies in both South Korea and the U.S., with a specific interest in communicative dynamics and vernacular social and ethical norms of coexistence emerging in internet and campus communities.",
-    "headshot" : "5.png"
+    "headshot" : "jiyeon-kang.jpg"
 },
 
 {
@@ -98,7 +98,7 @@
     "role" : "Organizer",
     "affiliation" : "Sarah Lawrence College",
     "bio" : "Yeong Ran Kim is an interdisciplinary artist and researcher, who sees aesthetic practices as central means to build social movements that create unique moments of coming together. Their interdisciplinary projects draw together their research in the contemporary queer culture with performance theory, Asian/American studies, gender and sexuality studies, and media studies. Kim is a visual/sonic media composer and a member of “The Urban Mythfits,” a performance-artists collective based in New York City, and a Mellon Digital Media Fellow at Sarah Lawrence College.",
-    "headshot" : "11.png"
+    "headshot" : "yeongran-kim.jpg"
 },
 
 {
@@ -138,6 +138,13 @@
     "affiliation" : "South Korea/Chicago",
     "bio" : "SUNGJAE LEE is a Seoul-born, Chicago-based artist. He makes performance, installation, text, and video focusing on queer Asians and their desires that have been regarded as effeminate, desexualized, and thus invisible in the West. He has presented his works globally in Korea, Sweden, Canada, New Zealand, and the US. He received his B.F.A. in Sculpture from Seoul National University and M.F.A. in Performance Art from The School of the Art Institute of Chicago.</p><p><a href='https://sung-jae-lee.com/' target='_blank'>Website</a>",
     "headshot" : "sungjae-lee.jpg"
+},
+{
+    "name" : "Sunho Lee",
+    "role" : "Translator",
+    "affiliation" : "RISD",
+    "bio" : "Sunho Lee is a RISD MFA candidate and a graphic designer with experience in startup consulting, advertising, and human rights fieldwork. Her passion is to combine motion graphics and illustrations to tell the stories of underprivileged populations. When Sunho is not working, she can be found rock climbing, hand printing patterns on fabric, or making cocktails.",
+    "headshot" : "sunho-lee.jpg"
 },
 
 {

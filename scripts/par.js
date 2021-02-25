@@ -37,17 +37,15 @@ $(document).ready(function() {
 });
 
 function deskFunc() {
-    $(document).on('mouseenter', '.name', function() {
-        let thisP = $(this).closest(".participant");
-        let thisBio = $(this).siblings(".bio").position().top;
+    $(document).on('click', '.participant', function() {
+        let thisP = $(this);
+        let thisBio = $(this).find(".bio").position().top;
         if(!$(thisP).hasClass('hover')) {
             $(thisP).addClass("hover");
             $(thisP).animate({
                 scrollTop: thisBio
             }, 500);
-        } else {
-            return;
-        }
+        } 
     });
 
     $(document).on('mouseleave', '.participant', function() {

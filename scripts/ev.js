@@ -19,7 +19,7 @@ $.getJSON('../data/events.json', function(data) {
                             <p>Info</p>
                         </div>
                         <a class="register" href="${info.link}" target="_blank">
-                            <div class="event-button">
+                            <div>
                                 <p>Register</p>
                             </div>
                         </a>
@@ -41,7 +41,7 @@ $.getJSON('../data/events.json', function(data) {
                             <p>Info</p>
                         </div>
                         <a class="register" href="${info.link}" target="_blank">
-                            <div class="event-button">
+                            <div>
                                 <p>Register</p>
                             </div>
                         </a>
@@ -63,7 +63,7 @@ $.getJSON('../data/events.json', function(data) {
                             <p>Info</p>
                         </div>
                         <a class="register" href="${info.link}" target="_blank">
-                            <div class="event-button">
+                            <div>
                                 <p>Register</p>
                             </div>
                         </a>
@@ -74,17 +74,17 @@ $.getJSON('../data/events.json', function(data) {
         }
         eventInfo+=
         ` <div class="event-info" id="event${i}-info">
-            <div class="event-title">
+            <div>
                 <p>${info.date}</p>
                 <h3>${info.title}</h3>
             </div>
             <div class="event-descrip">
                 <p>${info.description}</p>
             </div>
-            <div class="event-p">
+            <div>
                 <div class="e-buttons">
                     <a class="register" href="${info.link}" target="_blank">
-                        <div class="event-button">
+                        <div>
                             <p>Register</p>
                         </div>
                     </a>
