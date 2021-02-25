@@ -470,9 +470,9 @@ footer p {
     display: none;
 }
 
-.participant:last-of-type {
+/* .participant:last-of-type {
     border-right: 1px solid #000;
-}
+} */
 
 .participant:nth-of-type(4n-7) {
     background: #7cedff;
