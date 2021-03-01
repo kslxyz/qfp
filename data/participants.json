@@ -85,6 +85,14 @@
 },
 
 {
+    "name" : "Mina Kim",
+    "role" : "Translator",
+    "affiliation" : "RISD",
+    "bio" : "Mina Kim is a graduate student at RISD. Previously, she had studied Communication Design and HCI (Human-Computer Interaction) at Carnegie Mellon University. She worked as a UX designer at Motorola, designing interactions for the camera app and Moto 360 Camera Mod. She is now pursuing a master's degree in graphic design with a passion for visual language and brand identity. Mina is also interested in meditation, psychology, and how individuals' traits and lifestyles impact their mental health.",
+    "headshot" : "minakim_bw.png"
+},
+
+{
     "name" : "Minkyoung Kim",
     "role" : "Moderator",
     "affiliation" : "RISD",
